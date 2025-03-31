@@ -26,7 +26,7 @@ Also, the scree plot shows a noticeable "elbow" after the second component, furt
 - X7: Distinctive brand character  
 - X8: Used the brand  
 
-📝 **Interpretation**:  
+**Interpretation**:  
 This component reflects brands that are naturally memorable and positively evaluated in terms of trust, uniqueness, and usage experience. The more a brand is recalled and favored without assistance, the higher its **perceived attractiveness**.
 
 #### - **Factor 2: Small Brand Recognition**
@@ -34,7 +34,7 @@ This component reflects brands that are naturally memorable and positively evalu
 - X2: Recognition with prompting (negative loading)  
 - X9: Most frequently used brand (positive loading)  
 
-📝 **Interpretation**:  
+**Interpretation**:  
 Although certain brands are less recognized unless prompted (lower visibility), they may have a strong core of loyal users. This indicates **small brands with high loyalty** — not widely known, but consistently used by a specific group.
 
 ---
@@ -54,7 +54,7 @@ Similar to the insurance dataset, the scree plot and eigenvalue rule suggest sel
 - X5: Trust in brand  
 - X7: Brand character  
 
-📝 **Interpretation**:  
+**Interpretation**:  
 This factor represents overall brand image or **reputation**, where higher recall, trust, and uniqueness are associated with more favorable evaluations.
 
 #### - **Factor 2: Small Brand Awareness**
@@ -62,7 +62,7 @@ This factor represents overall brand image or **reputation**, where higher recal
 - X2: Recognition with prompting (negative loading)  
 - X6: Most trusted brand (positive loading)  
 
-📝 **Interpretation**:  
+**Interpretation**:  
 This factor captures the **recognition and trust** of lesser-known brands. While these brands are not spontaneously recalled, they may still be strongly trusted by specific users, showing a pattern of **niche loyalty**.
 
 ---
