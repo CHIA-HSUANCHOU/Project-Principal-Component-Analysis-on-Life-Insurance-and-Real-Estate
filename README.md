@@ -2,9 +2,12 @@
 
 
 ---
-Title: Principal Component Analysis on Life Insurance and Real Estate
+Title: Principal Component Analysis on Life Insurance and Real Estate.
+
 Date: 2022/3/12
+
 Course:Multivariate Analysis
+
 ---
 
 
