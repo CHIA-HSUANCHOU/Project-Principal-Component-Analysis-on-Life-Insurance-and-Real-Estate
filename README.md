@@ -1,11 +1,9 @@
 # Project-Principal-Component-Analysis-on-Life-Insurance-and-Real-Estate
 
 ---
-
 Title: Principal Component Analysis on Life Insurance and Real Estate
 Date: 2022/3/12
 Course:Multivariate Analysis
-
 ---
 
 ## Life Insurance Brand PCA
@@ -55,7 +53,7 @@ Similar to the insurance dataset, the scree plot and eigenvalue rule suggest sel
 - X7: Brand character  
 
 **Interpretation**:  
-This factor represents overall brand image or **reputation**, where higher recall, trust, and uniqueness are associated with more favorable evaluations.
+This factor represents overall brand image or reputation, where higher recall, trust, and uniqueness are associated with more favorable evaluations.
 
 #### - **Factor 2: Small Brand Awareness**
 
